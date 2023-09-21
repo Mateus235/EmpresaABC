@@ -1,0 +1,14 @@
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\bin\Debug\mercadoSA.exe.config
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\bin\Debug\mercadoSA.exe
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\bin\Debug\mercadoSA.pdb
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.csproj.AssemblyReference.cache
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.Form1.resources
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.frmLogin.resources
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.frmMenuPrincipal.resources
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.frmSplash.resources
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.Properties.Resources.resources
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.csproj.GenerateResource.cache
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.csproj.CoreCompileInputs.cache
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.exe
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.pdb
+C:\Users\mateus.smartins\Documents\Visual Studio 2019\projetoTI110\EmpresaABC\mercadoSA\obj\Debug\mercadoSA.frmCalcu.resources
